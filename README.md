@@ -254,8 +254,8 @@ Publicar el dashboard final y añadir capturas o enlace directo.
 
 Añadir un archivo requirements.txt y una guía de configuración sin credenciales.
 
-Autor: [Tu nombre]
+Autor: Miguel Angel Rodriguez Vega
 Rol objetivo: Data Analyst
-Contacto: [LinkedIn] · [Portafolio/GitHub]
+Contacto: https://www.linkedin.com/in/miguel-rodriguez-dataanalyst/ 
 
 Este README describe los análisis y resultados que aparecen en el notebook. Los hallazgos se presentan como resultados exploratorios y deben validarse antes de usarse para decisiones operativas.
